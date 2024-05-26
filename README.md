@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+The link leads to a placeholder webpage called "Example Domain." This site is used as a demonstration in documentation and instructional materials. For more information,
+visit https://6653273db84e23776264962c--mellow-travesseiro-18ac5f.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
